@@ -1,0 +1,12 @@
+PHP without SQl login timeline so far.
+
+-----------------------------------------------
+
+June 11 2009.  V1 Created
+
+
+June 12th 2009.  V1.1 created.  Can now leave the site and log in again.  Does not have to press 'submit' twice.
+
+
+June 7th 2010.  V1.2 created.  Now more secure.  Uses sessions instead of cookies.
+October 13th 2010.  V1.3 created.   Added logout.php again.  Added more comments on logout.php.  Put in Google AdSense capabilites.
